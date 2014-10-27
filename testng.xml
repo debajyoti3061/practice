@@ -1,0 +1,14 @@
+<suite name = "practice">
+
+<test name = "hash map">
+	<classes>
+		<class name = "practice.hmiteratioin"></class>
+	</classes>
+</test>
+<test name = "dup num">
+	<classes>
+		<class name = "practice.NumberReverse"></class>
+	</classes>
+</test>
+
+</suite>
